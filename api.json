@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 100,
+      "id": 1,
+      "title": "Francés",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekt1zr-7fa41f0c-619c-4ef1-a2ad-a0c17a7fb14f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNmU1Y2VmLTY3MzUtNDRmNC04ODY3LTQ4M2YxOGZiMzNmY1wvZGVrdDF6ci03ZmE0MWYwYy02MTljLTRlZjEtYTJhZC1hMGMxN2E3ZmIxNGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LTvpvTwBgJq8PA627GDKWvPIFwqyVpHXYECiyimf7eo"
+    },
+    {
+      "precio": 200,
+      "id": 2,
+      "title": "Árabe",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekt206-a72c6a77-1c8e-480c-828c-c5b43abfebaf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNmU1Y2VmLTY3MzUtNDRmNC04ODY3LTQ4M2YxOGZiMzNmY1wvZGVrdDIwNi1hNzJjNmE3Ny0xYzhlLTQ4MGMtODI4Yy1jNWI0M2FiZmViYWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WuAq9e83nnmT5rkfCqV6m6a2zOYIDHcjMzRr4dKBDu8"
+    },
+    {
+      "precio": 500,
+      "id": 3,
+      "title": "Molde",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekt1zm-c874d676-a1e9-471e-ad39-2c105da655ca.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNmU1Y2VmLTY3MzUtNDRmNC04ODY3LTQ4M2YxOGZiMzNmY1wvZGVrdDF6bS1jODc0ZDY3Ni1hMWU5LTQ3MWUtYWQzOS0yYzEwNWRhNjU1Y2EucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R6EDJMY8XF43mLGpSg_d3qDk26JOsfen7LFE50oXdWM"
+    },
+    {
+      "precio": 100,
+      "id": 4,
+      "title": "Yema",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekt1zb-9858e36e-c58b-40a1-8d62-deee4731ee26.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNmU1Y2VmLTY3MzUtNDRmNC04ODY3LTQ4M2YxOGZiMzNmY1wvZGVrdDF6Yi05ODU4ZTM2ZS1jNThiLTQwYTEtOGQ2Mi1kZWVlNDczMWVlMjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.sK4Sz7P2j5809TwEYtmXfqnMrRYbTtNFvXLYeb_Vd68"
+    },
+    {
+      "precio": 300,
+      "id": 5,
+      "title": "Croissant",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekt1zx-e5c6f115-54fc-4bd8-9425-5fa7f022b446.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmNmU1Y2VmLTY3MzUtNDRmNC04ODY3LTQ4M2YxOGZiMzNmY1wvZGVrdDF6eC1lNWM2ZjExNS01NGZjLTRiZDgtOTQyNS01ZmE3ZjAyMmI0NDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KU7rGA9b8c2HYbwFz7bB3dIvMv_DMdAEw9fKDhmkaHg"
+    },
+    {
+      "precio": 350,
+      "id": 6,
+      "title": "Centeno",
+      "thumbnailUrl": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f6e5cef-6735-44f4-8867-483f18fb33fc/dekszhz-e886e20c-a05e-4025-96cc-181ce5fb4463.jpg/v1/fill/w_1192,h_670,q_70,strp/ceteno_by_a7omsk_dekszhz-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvM2Y2ZTVjZWYtNjczNS00NGY0LTg4NjctNDgzZjE4ZmIzM2ZjXC9kZWtzemh6LWU4ODZlMjBjLWEwNWUtNDAyNS05NmNjLTE4MWNlNWZiNDQ2My5qcGciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.o3zsBzaptzYJSGO5JRW66eXzaXSY_gMZdM1lzrrpkCY"
+    }
+  ]
